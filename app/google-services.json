@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308376359463",
+    "project_id": "btu-exercise-1",
+    "storage_bucket": "btu-exercise-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308376359463:android:3365622ede1047d927f402",
+        "android_client_info": {
+          "package_name": "com.btu.vakhtang.zangaladze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308376359463-ijpu4edi1r8a4ialf2eh950jp733g9rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wj32BcUAYuMf3UNEmuFYgM35fe0SZZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308376359463-ijpu4edi1r8a4ialf2eh950jp733g9rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
